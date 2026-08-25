@@ -1,8 +1,8 @@
 class Sav < Formula
   desc "Save states for coding agents (Claude Code, Codex, Kiro)"
   homepage "https://github.com/RoyLeviGit/sav"
-  url "https://github.com/RoyLeviGit/sav/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "4080aa756f69a97094ccae85964e5a7d6bad117db4e72a3461c613684472b2fb"
+  url "https://github.com/RoyLeviGit/sav/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "2ab0783069d484ca0adcecf828e283a1eb64bc2873d17762a993b85ae1347acb"
   license "MIT"
   head "https://github.com/RoyLeviGit/sav.git", branch: "main"
 
